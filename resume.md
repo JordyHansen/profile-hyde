@@ -5,7 +5,7 @@ title: Resume
 409 S Dodge St. Apt. 8, Iowa City, IA 52240  
 [jhansenmhs@gmail.com](mailto:jhansenmhs@gmail.com) - (319) 310 - 0101
 
-###Experience
+### Experience
 
 <p><i>The Daily Iowan</i></p>
 <p>Staff Writer *Aug. 2013 - May 2015*</p>
@@ -23,7 +23,7 @@ Edited, reviewed and posted sports section content while also covering the Iowa 
 Along with a staff of three others, I oversee and have editoral control of all football-related content    
 * Have continued to push out daily content and increase the social media profile of the section.
 
-<p><i>The Marion Times<i/></p>
+<p><i>The Marion Times</i></p>
 Staff Writer *May. 2015 - Aug. 2015*
 Wrote about local community news 
 
@@ -35,14 +35,17 @@ Create video and written content for the college-centered site.
 Eagle Scout
 
 ### Skills
-#### Video production
-* 
-* 
-* Experience with SLR and DVCAM shooting
+* Writing for the web
+* Deep understanding of social media
+* Wordpress experience
+* Excel, Numbers, and Google sheets 
+* Final Cut
+* iMovie
+* Social media videos
+* Twitter, Facebook, Instagram, Snapchat, Vine
+* Experience shooting video and still photographs
 
-#### Another skill
-* subskills/software
 
 ### Education
 #### University of Iowa
-Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+Bachelor of Arts in Journalism and Mass Communication and Sports Studies *anticipated May 2017* 
