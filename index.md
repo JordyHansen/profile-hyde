@@ -7,7 +7,7 @@ title: Home
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2017.
 
-I have proven expertise in multimedia storytelling, longform journalism, and writing for the web. I've spent the past three years in an aactive, independent college newsroom and know the rigors of being a journalist. I'm ready to take my next step into the world of writing and I invite you to follow along on my journey.
+I have proven expertise in multimedia storytelling, longform journalism, and writing for the web. I've spent the past three years in an active, independent college newsroom and know the rigors of being a journalist. I'm ready to take my next step into the world of writing and I invite you to follow along on my journey.
 
 ### Social media
 
