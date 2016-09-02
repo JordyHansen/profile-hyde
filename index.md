@@ -22,3 +22,5 @@ I have proven expertise in multimedia storytelling, longform journalism, and wri
 <a href="http://snapchat.com/jordyhansen"> <i class="fa fa-snapchat-square" aria-hidden="true"></i>Snapchat</a>
 <br>
 <a href="https://www.instagram.com/jordyhansen"><i class="fa fa-instagram" aria-hidden="true"></i>Instagram</a>
+<br>
+<a href="https://www.vine.com/jordyhansen"><i class="fa fa-vine" aria-hidden="true"></i>Vine</a>
