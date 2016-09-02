@@ -2,29 +2,49 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+409 S Dodge St. Apt. 8, Iowa City, IA 52240  
+[jhansenmhs@gmail.com](mailto:jhansenmhs@gmail.com) - (319) 310 - 0101
 
-### Experience
+Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
+The Daily Iowan
+Staff Writer *Aug. 2013 - May 2015*
 Brief description here.    
 
 * list two or three
 * important achievements
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
+Sports Editor *Aug. 2015 - May. 2016*
 Brief description here.    
 
 * list two or three
 * important achievements
 * you want to emphasize
 
+Pregame Editor *May. 2016 - present*
+Brief description here.    
 
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
+* list two or three
+* important achievements
+* you want to emphasize
+* 
+
+The Marion Times
+Staff Writer *May. 2015 - Aug. 2015*
+Brief description here.    
+
+* list two or three
+* important achievements
+* you want to emphasize
+* 
+
+Sports Illustrated
+Campus Rush Correspondent *Aug. 2016 - Present*
+Brief description here.    
+
+* list two or three
+* important achievements
+* you want to emphasize
 
 
 ### College Activities
