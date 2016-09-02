@@ -47,5 +47,5 @@ Eagle Scout
 
 
 ### Education
-#### University of Iowa
-Bachelor of Arts in Journalism and Mass Communication and Sports Studies *anticipated May 2017* 
+University of Iowa
+Bachelor of Arts in Journalism and Mass Communication and Sports Studies <i>anticipated May 2017</i>
