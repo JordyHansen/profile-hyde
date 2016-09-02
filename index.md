@@ -18,6 +18,5 @@ I have proven expertise in multimedia storytelling, longform journalism, and wri
 <a href="http://facebook.com/jordan.hansen.927"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
 <a href="https://www.linkedin.com/profile/edit?locale=en_US&trk=profile-preview"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
-</p>
-<a href="http://snapchat.com/jordyhansen"> <i class="fa fa-snapchat-square" aria-hidden="true"></i>
-<a href="https://www.instagram.com/jordyhansen"><i class="fa fa-instagram" aria-hidden="true"></i>
+<a href="http://snapchat.com/jordyhansen"> <i class="fa fa-snapchat-square" aria-hidden="true"></i>Snapchat</a>
+<a href="https://www.instagram.com/jordyhansen"><i class="fa fa-instagram" aria-hidden="true"></i></a>
